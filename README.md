@@ -12,3 +12,11 @@ Relembrando códigos básicos e a lógica de funcionamento de branches e version
 
 Trabalhando também com GitFlow e Visual Studio Code.
 
+
+
+-----
+
+
+
+Importante reforçar o básico e a lógica
+
