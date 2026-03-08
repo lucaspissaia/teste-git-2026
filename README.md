@@ -7,6 +7,10 @@ Relembrando códigos básicos e a lógica de funcionamento de branches e version
 Curso Teo me Why!
 Gravado em 2025
 
+Disponível no youtube e com trilha de estudos
+
+lives do teo na twitch
+
 Trabalhando também com GitFlow e Visual Studio Code.
 
 ## Fluxo de trabalho Git local
