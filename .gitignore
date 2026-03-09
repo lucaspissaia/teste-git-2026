@@ -1,0 +1,5 @@
+# Ignore the PowerPoint file
+*.pptx
+*.csv
+*.xlsx
+*.parquet
